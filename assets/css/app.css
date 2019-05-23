@@ -627,24 +627,12 @@ header .mobile-logo {
   transition: 275ms all ease;
   cursor: pointer;
   right: 70px;
-  top: 20px;
+  top: 40px;
   padding: 10px 0;
   position: relative;
   z-index: 2
 }
 
-.canvas-navi-bar div {
-  display: block;
-  width: 35px;
-  height: 3px;
-  margin-bottom: 4px;
-  background-color: #686e7f;
-  -webkit-transition: 0.4s all ease;
-  -o-transition: 0.4s all ease;
-  transition: 0.4s all ease;
-  position: relative;
-  z-index: 2
-}
 
 .canvas-navi-bar div:last-child {
   width: 22px;
