@@ -1228,7 +1228,8 @@ section h2 {
 section h3 {
   font-weight: 200;
   font-size: 30px;
-  margin-top: 0
+  margin-top: 0;
+  line-height: 2rem;
 }
 
 section h3.large {
