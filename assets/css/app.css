@@ -633,11 +633,11 @@ header .mobile-logo {
   z-index: 2
 }
 
-
+/*
 .canvas-navi-bar div:last-child {
   width: 22px;
   margin-left: auto
-}
+}*/
 
 .canvas-navi-bar.nV div {
   width: 0
